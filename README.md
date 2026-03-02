@@ -37,10 +37,22 @@ Original Artifact 1: CS 300 Binary Search Tree Assignment Student Files
 
 Enhanced Artifact 1: CS499 artifact 1/CS499
 
+<img width="397" height="269" alt="image" src="https://github.com/user-attachments/assets/6f86a95b-a78a-460e-9798-3a69dbf71d22" />
+<img width="840" height="626" alt="image" src="https://github.com/user-attachments/assets/17c8fede-4bdc-45ea-bca3-d73bd9dbb63b" />
+
+
 Artifact 1 Narrative : artifact 1 narrative.docx
 
 2nd enhancement narrative: milestone 3 Reflection.docx
 
+Original Artifact 2: CS499 original artifact 2
+
 Enhanced Artifact 2: cs499 artifact 2
+
+<img width="307" height="660" alt="image" src="https://github.com/user-attachments/assets/512a69b6-0cf7-4442-be5a-feb824f197c2" />
+<img width="301" height="675" alt="image" src="https://github.com/user-attachments/assets/073c2573-13ae-4076-9bf9-172c84823b46" />
+<img width="306" height="309" alt="image" src="https://github.com/user-attachments/assets/9376855a-a157-4bb2-b26b-eb709b4883dd" />
+<img width="301" height="298" alt="image" src="https://github.com/user-attachments/assets/23f92f09-2dd5-4bf0-a135-698d23fc5da6" />
+
  
 Artifact 2 Narrative: milestone 4 Reflection.docx
