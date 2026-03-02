@@ -39,6 +39,8 @@ Enhanced Artifact 1: CS499 artifact 1/CS499
 
 Artifact 1 Narrative : artifact 1 narrative.docx
 
+2nd enhancement narrative: milestone 3 Reflection.docx
+
 Enhanced Artifact 2: cs499 artifact 2
  
- Artifact 2 Narrative:
+Artifact 2 Narrative: milestone 4 Reflection.docx
