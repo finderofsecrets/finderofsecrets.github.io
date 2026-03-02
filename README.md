@@ -37,7 +37,7 @@ Original Artifact 1: CS 300 Binary Search Tree Assignment Student Files
 
 Enhanced Artifact 1: CS499 artifact 1/CS499
 
-Artifact 1 Narrative : 
+Artifact 1 Narrative : artifact 1 narrative.docx
 
 Enhanced Artifact 2: cs499 artifact 2
  
